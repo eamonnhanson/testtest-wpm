@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Proxy server for Zoho Flow",
     "main": "server.mjs",
-    "scripts": {
+        "scripts": {
         "start": "node server.mjs"
     },
     "dependencies": {
